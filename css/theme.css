@@ -48,10 +48,18 @@ body {
 
 #bottomBrick {
     height: 20%;
-    width: 100%;
+    width: 5000px;
     background-image: url('../images/brick.png');
     position: absolute;
     bottom: 0;
     /*left: -703px;*/
     background-color: black;
+}
+
+/*MARIO*/
+#mario img{
+    width: 100px;
+    height: auto;
+    position: absolute;
+    bottom: 20%;
 }
