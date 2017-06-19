@@ -1,4 +1,4 @@
 # Trying Funny Mario game like Resume
-## Librarires Used
+## Libraries Used
 - Bootstrap
 - jQuery
