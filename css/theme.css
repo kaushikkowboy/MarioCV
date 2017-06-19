@@ -56,10 +56,24 @@ body {
     background-color: black;
 }
 
+
 /*MARIO*/
-#mario img{
+
+#mario img {
     width: 100px;
     height: auto;
     position: absolute;
     bottom: 20%;
+} 
+
+/*Background Nature*/
+
+#bg_nature {
+    width: 5000px;
+    background-image: url('../images/bg_nature1.png');
+    position: absolute;
+    background-color: transparent;
+    bottom: 20%;
+    z-index: -2;
+    height: 100px;
 }
